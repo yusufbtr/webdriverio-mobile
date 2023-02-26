@@ -118,12 +118,11 @@ exports.config = {
             'appium',
             {
                 args : {
-                    address : '127.0.0.1',
+                    address : 'localhost',
                     port    : 4723,
-                    relaxedSecurity: true,
                 },
                 logPath : './log',
-                command : 'appium',
+                command : 'appium'
             },
         ],
     ],

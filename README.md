@@ -8,10 +8,10 @@ Email: yusufbachtiar14@gmail.com
 
 Link to screenrecord and screenshots of program execution:
    ```sh
-   
+   https://drive.google.com/drive/folders/1RNxVNtPh2YcHyMRamQ8l9e0egbasHPfW?usp=share_link
    ```
 
-How to Start
+### How to Start
 
 Install 
 1. Node JS
@@ -24,7 +24,7 @@ Install
   npm install
 ```
 
-How to run
+### How to run
 1. Connect to your device android or IOS
 2. Setup desired capabilities in file wdio.conf.js
 3. Run test
